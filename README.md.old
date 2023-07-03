@@ -7,10 +7,10 @@ dZone--PT4A--USBstorage2 is the updated version of dZone--PT4A--USBstorage
      ├──  README.md.old
      ├──  USB256GB-Latest/
      │   └──  README.md
-     └──  USB256GB-test1/
+     └──  USB256GB-test2/
          └──  README.md
      
-     3 directories, 4 files (Tue Jul  4 04:05:31 JST 2023)
+     3 directories, 4 files (Tue Jul  4 04:15:37 JST 2023)
 
 
 Note: URL = https://github.com/hohno-46466/dZone--PT4A--USBstorage2
