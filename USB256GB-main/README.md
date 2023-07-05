@@ -5,7 +5,7 @@ dZone--PT4A--USBstorage2 is the updated version of dZone--PT4A--USBstorage
     ./dZone--PT4A--USBstorage2
      ├──  README.md
      ├──  README.md.old
-     └──  USB256GB-Latest/
+     └──  USB256GB-main/
          └──  README.md
      
      2 directories, 3 files (Tue Jul  4 04:00:52 JST 2023)
