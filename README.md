@@ -12,7 +12,9 @@ dZone--PT4A--USBstorage2 is the updated version of dZone--PT4A--USBstorage
 
 
 Note: URL = https://github.com/hohno-46466/dZone--PT4A--USBstorage2
+      Branch: test1
 
 Note: URL = git@github.com:hohno-46466/dZone--PT4A--USBstorage2.git
+      Branch: test1
 
 -EOF-
