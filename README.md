@@ -1,4 +1,4 @@
-# dZone--PT4A--USBstorage2
+# dZone--PT4A--USBstorage2 (Branch: USB128GB-20210601)
 
 dZone--PT4A--USBstorage2 is the updated version of dZone--PT4A--USBstorage 
 
@@ -12,9 +12,9 @@ dZone--PT4A--USBstorage2 is the updated version of dZone--PT4A--USBstorage
 
 
 Note: URL = https://github.com/hohno-46466/dZone--PT4A--USBstorage2
-      Branch: USB128GB-20210601
+     (Branch: USB128GB-20210601)
 
 Note: URL = git@github.com:hohno-46466/dZone--PT4A--USBstorage2.git
-      Branch: USB128GB-20210601
+     (Branch: USB128GB-20210601)
 
 -EOF-
